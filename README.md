@@ -44,6 +44,7 @@ This initiative is for anyone involved in or interested in the intersection of A
 
 ## How to Use These Documents
 
+*   **Import the documents to your LLM platform:** Import as context, for example in Google AI Studio
 *   **Study & Understand:** Familiarize yourself with the principles, practices, and frameworks outlined.
 *   **Adapt & Adopt:** These are not rigid prescriptions but adaptable guidelines. Tailor them to your specific team, project, or organizational context.
 *   **Implement Incrementally:** Consider starting with one or two key areas (e.g., standardized prompting from the Dev Bible, or applying MAIA-WF to a small project) and expand your adoption gradually.
